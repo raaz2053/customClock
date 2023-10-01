@@ -1,6 +1,6 @@
 # Clock Display
 
-This code is designed to display the current date and time on an LCD screen using the DS3231 real-time clock module and the LiquidCrystal_I2C library. It initializes the LCD screen, retrieves the date and time from the DS3231 module, and continuously updates the display with the current date and time.
+This code is designed to display the current date and time on an LCD screen using the DS3231 real-time clock module and the LiquidCrystal_I2C library for arduino. It initializes the LCD screen, retrieves the date and time from the DS3231 module, and continuously updates the display with the current date and time.
 
 ## Prerequisites
 
